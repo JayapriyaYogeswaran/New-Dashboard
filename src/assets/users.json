@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "email" : "demouser@gamil.com",
+        "password" : "demo_pass"
+    },
+    {
+        "id" : 2,
+        "email" : "user@gmail.com",
+        "password" : "demo_pass"
+    },
+    {
+        "id" : 3,
+        "email" : "user1@gmail.com",
+        "password" : "demo_pass"
+    },
+    {
+        "id" : 4,
+        "email" : "test@gmail.com",
+        "password" : "demo_pass"
+    },
+    {
+        "id" : 5,
+        "email" : "testuser@gmail.com",
+        "password" : "demo_pass"
+    }
+]
